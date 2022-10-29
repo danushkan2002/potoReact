@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ec3f6dc.css",
+    "main.js": "/static/js/main.ddd81d7e.js",
+    "static/media/Bg-solor.jpg": "/static/media/Bg-solor.808dcb63ea964d4f6e97.jpg",
+    "static/media/BgE.png": "/static/media/BgE.96162252cea2a8628e23.png",
+    "static/media/single.png": "/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/index.html",
+    "main.8ec3f6dc.css.map": "/static/css/main.8ec3f6dc.css.map",
+    "main.ddd81d7e.js.map": "/static/js/main.ddd81d7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ec3f6dc.css",
+    "static/js/main.ddd81d7e.js"
+  ]
+}
